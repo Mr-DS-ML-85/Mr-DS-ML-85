@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Harden-Windows<br>🌱 I’m currently learning Python,Bash,Linux,Powershell,C<br>📫 How to reach me devforgeplayer365@protonmail.com<br>⚡ Fun fact I don't sleep much but my GPU does the dreaming
+🔭 I’m currently working on Harden-Windows,extreme-beginner-python-projects<br>🌱 I’m currently learning Python,Bash,Linux,Powershell,C<br>📫 How to reach me devforgeplayer365@protonmail.com<br>⚡ Fun fact I don't sleep much but my GPU does the dreaming
 
 
 ## 🌐 Socials:
