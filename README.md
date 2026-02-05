@@ -15,14 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mr-DS-ML-85&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-## TryHackMe Stats
-![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6849912)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
