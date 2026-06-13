@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IPTV-98 and 0x3d-hub<br>🌱 I’m currently learning Python,Bash,Linux,Powershell,C,rust<br>📫 How to reach me mr-ds-ml-85@devforge.qzz.io<br>⚡ Fun fact I don't sleep much but my GPU does the dreaming
+🔭 I’m currently working on mips-xip-kernel and IPTV98<br>🌱 I’m currently learning Python,Bash,Linux,Powershell,C,rust<br>📫 How to reach me mr-ds-ml-85@devforge.qzz.io<br>⚡ Fun fact I don't sleep much but my GPU does the dreaming
 
 
 ## 🌐 Socials:
