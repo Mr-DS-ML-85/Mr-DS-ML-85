@@ -8,6 +8,8 @@
        width="50"
        align="center">
 </a><br>
+<br> Research Profile [ORCID ID](https://orcid.org/0009-0001-2875-6104) <br>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/BpUWfnYW) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/SalamanderCreative65) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30931281/techtronic365) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irfan@furylogic.com) 
