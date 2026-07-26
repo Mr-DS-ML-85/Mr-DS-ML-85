@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on mips-xip-kernel and IPTV98<br>🌱 I’m currently learning Python,Bash,Linux,Powershell,C,rust<br>📫 How to reach me irfan@furylogic.com<br>⚡ Fun fact I don't sleep much but my GPU does the dreaming ⚜️Founder of FuryLogic Labs
-
+🔭 I’m currently working on mips-xip-kernel and IPTV98<br>
+🌱 I’m currently learning Python,Bash,Linux,Powershell,C,rust<br>📫 How to reach me irfan@furylogic.com<br>⚡ Fun fact I don't sleep much but my GPU does the dreaming 
+<br>⚜️ Founder of FuryLogic Labs™ ️
+<a href="https://www.furylogic.com">
+  <img src="https://raw.githubusercontent.com/Mr-DS-ML-85/FuryLogic-Labs/main/public/favicon.svg"
+       alt="FuryLogic Labs"
+       width="50"
+       align="center">
+</a><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/BpUWfnYW) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/SalamanderCreative65) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30931281/techtronic365) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irfan@furylogic.com) 
