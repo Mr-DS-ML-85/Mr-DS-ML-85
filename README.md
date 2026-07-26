@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mips-xip-kernel and IPTV98<br>
+🔭 I’m currently working on StrikeDB and VUGVA<br>
 🌱 I’m currently learning Python,Bash,Linux,Powershell,C,rust<br>📫 How to reach me irfan@furylogic.com<br>⚡ Fun fact I don't sleep much but my GPU does the dreaming 
 <br>⚜️ Founder of FuryLogic Labs™ ️
 <a href="https://www.furylogic.com">
