@@ -9,6 +9,8 @@
        align="center">
 </a><br>
 <br> Research Profile [ORCID ID](https://orcid.org/0009-0001-2875-6104) <br>
+Git Mirror : [Gitea](https://git.furylogic.com)
+
 
 
 ## 🌐 Socials:
@@ -27,7 +29,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
