@@ -9,7 +9,7 @@
        align="center">
 </a><br>
 <br> Research Profile [ORCID ID](https://orcid.org/0009-0001-2875-6104) <br>
-Git Mirror : [Gitea](https://git.furylogic.com)
+
 
 
 
